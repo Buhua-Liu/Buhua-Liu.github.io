@@ -11,49 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2019.09 - current Ph.D student in Department of Computer Science, **Hong Kong Baptist University**. <br>
+&ensp;&ensp;&ensp;(supervised by [Prof. Yiu-ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), GPA: 3.78/4.0) 
+* 2015.09 - 2019.06 B.Eng. in School of Electronic and Information Engineering, **Huazhong University of Science and Technology**. (GPA: 85+/100)  <br>
 
-Work experience
+Honor
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Excellent Teaching Assisitant Performance Award, Hong Kong Baptist University, 2020
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Research Postgraduate Studentship, Hong Kong Baptist University, 2019
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Excellent Graduate, Huazhong University of Science and Technology, 2019

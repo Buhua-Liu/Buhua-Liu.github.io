@@ -17,7 +17,7 @@ Education
 
 Honor
 ======
-Excellent Teaching Assisitant Performance Award, Hong Kong Baptist University, 2020
+Excellent Teaching Assistant Performance Award, Hong Kong Baptist University, 2020
 
 Research Postgraduate Studentship, Hong Kong Baptist University, 2019
 

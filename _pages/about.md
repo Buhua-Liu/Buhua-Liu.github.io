@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. student <br>
+MPhil student <br>
 Department of Computer Science, Hong Kong Baptist University
 
 

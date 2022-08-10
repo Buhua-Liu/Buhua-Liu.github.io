@@ -18,4 +18,4 @@ My research interests lie in the fields of AI security, privacy and computer vis
 
 **Short Bio**
 ======
-Buhua Liu is a Ph.D. student at the Department of Computer Science, Hong Kong Baptist University from 2019. He obtained the B.Eng. degree at the School of Electronic and Information Engineering, Huazhong University of Science and Technology, 2019. His research interests include computer vision, AI security and privacy.
+Buhua Liu is a MPhil student at the Department of Computer Science, Hong Kong Baptist University from 2019. He obtained the B.Eng. degree at the School of Electronic and Information Engineering, Huazhong University of Science and Technology, 2019. His research interests include computer vision, AI security and privacy.

@@ -10,7 +10,6 @@ redirect_from:
 
 MPhil student <br>
 Department of Computer Science, Hong Kong Baptist University
-[MPhil Candidature](https://lifehkbueduhk-my.sharepoint.com/:p:/g/personal/19481934_life_hkbu_edu_hk/EYKSeBFZmKREpzZNxCQnizwBpTjg12g0AnvLL2Pt_BRARw?e=uyTluI)
 
 **Research Interests**
 ======

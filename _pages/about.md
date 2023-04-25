@@ -13,7 +13,7 @@ Department of Computer Science, Hong Kong Baptist University
 
 **Research Interests**
 ======
-My research interests lie in the fields of AI security, privacy and computer vision, particularly in adversarial learning, federated learning.
+My research interests lie in the fields of AI security and computer vision, some research experience in adversarial learning, federated learning and backdoor learning.
 
 **Short Bio**
 ======

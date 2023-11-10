@@ -11,13 +11,9 @@ redirect_from:
 MPhil candidate <br>
 Department of Computer Science, Hong Kong Baptist University
 
-**Research Interests**
+**Intro**
 ======
-My research interests lie in the fields of AI security and computer vision, some research experience in adversarial learning, federated learning and backdoor learning.
-
-**Short Bio**
-======
-Buhua Liu is an MPhil candidate at the Department of Computer Science, Hong Kong Baptist University from 2019. He obtained the B.Eng. degree at the School of Electronic and Information Engineering, Huazhong University of Science and Technology, 2019. His research interests include computer vision, AI security and privacy.
+Buhua Liu is an MPhil candidate at the Department of Computer Science, Hong Kong Baptist University since 2019. He obtained the B.Eng. degree at the School of Electronic and Information Engineering, Huazhong University of Science and Technology, 2019. His research interests lie in trustworthy AI, including generative (text-to-image generative models) and discriminative (classification) AI.
 
 **Hobbies**
 ======

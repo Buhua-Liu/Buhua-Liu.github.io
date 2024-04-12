@@ -14,3 +14,14 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+**Conference**
+======
+**Buhua Liu**, Zeke Xie, Shuo Yang, Yiu-ming Cheung. Stronger Separability, Stronger Defense: Influence-based Backdoor Detection. ICML, under review 
+
+Xindi Yang, Zeke Xie, Xiong Zhou, Boyu Liu, **Buhua Liu**, Yi Liu, Haoran Wang, Yunfeng Cai, Mingming Sun. Neural Field Classifiers via Target Encoding and Classification Loss. ICLR, 2024
+
+**Journal**
+Weichao Lan, Yiu-ming Cheung, Qing Xu, **Buhua Liu**, Zhikai Hu, Mengke Li, Zhenghua Chen. Improve Knowledge Distillation via Label Revision and Data Selection.  Neural Computation, under review
+
+Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, Yujia Zhang, Wei Liu, Chun-Kit Wong, Chiu-Sing Pang, Weifeng Ou, Wing-Yin Yu, **Buhua Liu**. ChildPredictor: A Child Face Prediction Framework with Disentangled Learning. IEEE Transactions on Multimedia, 2022

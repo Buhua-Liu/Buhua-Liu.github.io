@@ -13,8 +13,8 @@ Department of Computer Science, Hong Kong Baptist University
 
 **Intro**
 ======
-Buhua Liu is an MPhil candidate at the Department of Computer Science, Hong Kong Baptist University since 2019. He obtained the B.Eng. degree at the School of Electronic and Information Engineering, Huazhong University of Science and Technology, 2019. His research interests lie in trustworthy AI, including generative (text-to-image generative models) and discriminative (classification) AI.
+Buhua Liu is an MPhil candidate at the Department of Computer Science, Hong Kong Baptist University. He obtained the B.Eng. degree at the School of Electronic and Information Engineering, Huazhong University of Science and Technology. His research interests lie in trustworthy AI, including generative (text-to-image generative models) and discriminative (classification) AI.
 
 **Hobbies**
 ======
-Hiking, Swimming, Badminton
+Self-Driving, Hiking, Swimming, Badminton

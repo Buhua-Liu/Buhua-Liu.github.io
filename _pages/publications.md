@@ -17,7 +17,7 @@ author_profile: true
 
 **Conference**
 ======
-**Buhua Liu***, Zeke Xie*, Shuo Yang, Yiu-ming Cheung. Stronger Separability, Stronger Defense: Influence-based Backdoor Detection. ICML, under review 
+**Buhua Liu**\*, Zeke Xie\*, Shuo Yang, Yiu-ming Cheung. Stronger Separability, Stronger Defense: Influence-based Backdoor Detection. ICML, under review 
 
 Xindi Yang, Zeke Xie, Xiong Zhou, Boyu Liu, **Buhua Liu**, Yi Liu, Haoran Wang, Yunfeng Cai, Mingming Sun. Neural Field Classifiers via Target Encoding and Classification Loss. ICLR, 2024
 

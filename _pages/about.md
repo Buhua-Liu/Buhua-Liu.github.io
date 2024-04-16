@@ -17,4 +17,4 @@ Buhua Liu is an MPhil candidate at the Department of Computer Science, Hong Kong
 
 **Hobbies**
 ======
-Self-Driving, Hiking, Swimming, Badminton
+Road trip, Hiking, Swimming, Badminton

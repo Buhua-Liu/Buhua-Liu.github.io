@@ -17,7 +17,7 @@ Education
 
 Intern Experiences
 ======
-Research Intern, Cognitive Computing Lab (CCL), Baidu Research, Beijing
+Research Intern, Cognitive Computing Lab (CCL), Baidu Research, Beijing （advised by Dr. Zeke Xie)
 
 Honor
 ======

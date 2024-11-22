@@ -17,9 +17,9 @@ author_profile: true
 
 **Conference**
 ======
-**Buhua Liu**\*, Zeke Xie\*, Shuo Yang, Yiu-ming Cheung. Stronger Separability, Stronger Defense: Influence-based Backdoor Detection. Under review.
+**Buhua Liu**, Shuo Yang, Zhiqiang Xu, Haoyi Xiong, Yiu-ming Cheung, Zeke Xie. Stronger Separability, Stronger Defense: Influence-based Backdoor Detection. Under review.
 
-Zipeng Qi*, **Buhua Liu***, Shiyan Zhang, Bao Li, Zhiqiang Xu, Haoyi Xiong, Zeke Xie. Gaussian Diffusion Classifiers: An Efficient and Strong Baseline for Zero-Shot Generative Classification. CVPR 2025, under review.
+Zipeng Qi\*, **Buhua Liu**\*, Shiyan Zhang, Bao Li, Zhiqiang Xu, Haoyi Xiong, Zeke Xie. Gaussian Diffusion Classifiers: An Efficient and Strong Baseline for Zero-Shot Generative Classification. CVPR 2025, under review.
 
 Xindi Yang, Zeke Xie, Xiong Zhou, Boyu Liu, **Buhua Liu**, Yi Liu, Haoran Wang, Yunfeng Cai, Mingming Sun. Neural Field Classifiers via Target Encoding and Classification Loss. ICLR, 2024.
 

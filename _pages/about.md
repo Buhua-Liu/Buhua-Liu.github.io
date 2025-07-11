@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-MPhil candidate <br>
+MPhil <br>
 Department of Computer Science, Hong Kong Baptist University
 
 **Bio**

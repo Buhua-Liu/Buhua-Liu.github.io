@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Current MPhil student in the Department of Computer Science, **Hong Kong Baptist University**. <br>
+* MPhil in the Department of Computer Science, **Hong Kong Baptist University**. <br>
 &ensp;&ensp;&ensp;(supervised by [Prof. Yiu-ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), GPA: 3.78/4.0) 
 * B.Eng. in School of Electronic and Information Engineering, **Huazhong University of Science and Technology**. (GPA: 85+/100)  <be>
 
 Intern Experiences
 ======
-Research Intern, Cognitive Computing Lab (CCL), Baidu Research, Beijing. (advised by Dr. Zeke Xie)
+Research Intern, Cognitive Computing Lab (CCL), Baidu Research, Beijing. (advised by [Prof. Zeke Xie](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIE-Zeke/zekexie))
 
 Honor
 ======

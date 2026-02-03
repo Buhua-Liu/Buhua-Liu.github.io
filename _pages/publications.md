@@ -17,11 +17,13 @@ author_profile: true
 
 **Conference**
 ======
-**Buhua Liu**, Shuo Yang, Zhiqiang Xu, Haoyi Xiong, Yiu-ming Cheung, Zeke Xie. Stronger Separability, Stronger Defense: Influence-based Backdoor Detection. Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2025 (**Oral**).
+**Buhua Liu**, Shuo Yang, Zhiqiang Xu, Haoyi Xiong, Yiu-ming Cheung, Zeke Xie. Stronger Separability, Stronger Defense: Influence-based Backdoor Detection. Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2025 (**Oral**).
 
 Zipeng Qi\*, **Buhua Liu**\*, Shiyan Zhang, Bao Li, Zhiqiang Xu, Haoyi Xiong, Zeke Xie. A Simple and Efficient Baseline for Zero-Shot Generative Classification. Under review.
 
-Xindi Yang, Zeke Xie, Xiong Zhou, Boyu Liu, **Buhua Liu**, Yi Liu, Haoran Wang, Yunfeng Cai, Mingming Sun. Neural Field Classifiers via Target Encoding and Classification Loss. International Conference on Learning Representations, 2024.
+Zichen Tang\*, Zhenheng Tang\*, Gaoning Pan, **Buhua Liu**, Xin He, Kunfeng Lai, Xiaowen Chu, Bo Li. Ghost in the Cloud: Your Geo-Distributed Large Language Models Training is Easily Manipulated. International Conference on Learning Representations (ICLR), 2026.
+
+Xindi Yang\*, Zeke Xie\*, Xiong Zhou, Boyu Liu, **Buhua Liu**, Yi Liu, Haoran Wang, Yunfeng Cai, Mingming Sun. Neural Field Classifiers via Target Encoding and Classification Loss. International Conference on Learning Representations (ICLR), 2024.
 
 **Journal**
 =====

@@ -27,7 +27,7 @@ Xindi Yang\*, Zeke Xie\*, Xiong Zhou, Boyu Liu, **Buhua Liu**, Yi Liu, Haoran Wa
 
 **Journal**
 =====
-**Buhua Liu**, Shitong Shao, Bao Li, Lichen Bai, Zhiqiang Xu, Haoyi Xiong, James Kwok, Sumi Helal, Zeke Xie. Alignment of Diffusion Models: Fundamentals, Challenges, and Future. Under review.
+**Buhua Liu**, Shitong Shao, Bao Li, Lichen Bai, Zhiqiang Xu, Haoyi Xiong, James Kwok, Sumi Helal, Zeke Xie. Alignment of Diffusion Models: Fundamentals, Challenges, and Future. ACM Computing Surveys (CSUR), 2026.
 
 Weichao Lan, Yiu-ming Cheung, Qing Xu, **Buhua Liu**, Zhikai Hu, Mengke Li, Zhenghua Chen. Improve Knowledge Distillation via Label Revision and Data Selection. IEEE Transactions on Cognitive and Developmental Systems, 2025.
 

@@ -59,6 +59,13 @@ Selected Publications
 </div>
 
 <div class="pub-card">
+  <div class="pub-title">Ghost in the Cloud: Your Geo-Distributed Large Language Models Training is Easily Manipulated</div>
+  <div class="pub-authors">Zichen Tang*, Zhenheng Tang*, Gaoning Pan, <span class="first-author">Buhua Liu</span>, Xin He, Kunfeng Lai, Xiaowen Chu, Bo Li</div>
+  <div class="pub-venue">ICLR, 2026</div>
+  <span class="badge badge-venue">ICLR 2026</span>
+</div>
+
+<div class="pub-card">
   <div class="pub-title">Stronger Separability, Stronger Defense: Influence-based Backdoor Detection</div>
   <div class="pub-authors"><span class="first-author">Buhua Liu</span>, Shuo Yang, Zhiqiang Xu, Haoyi Xiong, Yiu-ming Cheung, Zeke Xie</div>
   <div class="pub-venue">PAKDD, 2025</div>

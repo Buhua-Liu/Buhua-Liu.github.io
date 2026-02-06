@@ -5,39 +5,133 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<style>
+.teaching-section {
+  margin-bottom: 2em;
+}
+.teaching-year {
+  font-size: 1.3em;
+  font-weight: 700;
+  color: #2563eb;
+  margin: 1.5em 0 1em 0;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid rgba(37, 99, 235, 0.2);
+}
+.teaching-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 1.2em 1.5em;
+  margin-bottom: 1em;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+  border-left: 4px solid #2563eb;
+  transition: all 0.3s ease;
+}
+.teaching-card:hover {
+  transform: translateX(5px);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+.teaching-role {
+  display: inline-block;
+  background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+  color: #2563eb;
+  padding: 0.2em 0.8em;
+  border-radius: 15px;
+  font-size: 0.85em;
+  font-weight: 500;
+  margin-bottom: 0.5em;
+}
+.teaching-course {
+  font-weight: 600;
+  color: #1f2937;
+  font-size: 1.05em;
+  margin-bottom: 0.3em;
+}
+.teaching-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5em;
+}
+.teaching-school {
+  color: #6b7280;
+  font-size: 0.9em;
+}
+.teaching-level {
+  display: inline-block;
+  background: #f3f4f6;
+  color: #4b5563;
+  padding: 0.2em 0.6em;
+  border-radius: 4px;
+  font-size: 0.8em;
+}
+.intro-text {
+  background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+  border-radius: 12px;
+  padding: 1.5em;
+  margin-bottom: 2em;
+  border-left: 4px solid #2563eb;
+  color: #1f2937;
+}
+</style>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="intro-text">
+  <p>During my MPhil study at Hong Kong Baptist University, I served as a Teaching Assistant for various courses in Computer Science and Artificial Intelligence. Below is a summary of my teaching experience.</p>
+</div>
 
-<html>
-<head>
-  <meta content="text/html; charset=ISO-8859-1"
- http-equiv="content-type">
-  <title>Teaching</title>
-</head>
-<body>
+<div class="teaching-section">
+  <div class="teaching-year">2021-2022 Academic Year</div>
 
-2021-2022 Academic Year:<br>
+  <div class="teaching-card">
+    <span class="teaching-role">Teaching Assistant</span>
+    <div class="teaching-course">COMP7015 Artificial Intelligence</div>
+    <div class="teaching-info">
+      <span class="teaching-school">Hong Kong Baptist University | Fall 2021</span>
+      <span class="teaching-level">Postgraduate</span>
+    </div>
+  </div>
+</div>
 
-Teaching Assistant, 2021 Fall, Hong Kong Baptist University, <b>COMP7015 Artificial Intelligence</b> (Postgraduate)<br>
+<div class="teaching-section">
+  <div class="teaching-year">2020-2021 Academic Year</div>
 
-<br>
+  <div class="teaching-card">
+    <span class="teaching-role">Teaching Assistant</span>
+    <div class="teaching-course">COMP7780 Special Topics in Knowledge & Info Management</div>
+    <div class="teaching-info">
+      <span class="teaching-school">Hong Kong Baptist University | Spring 2021</span>
+      <span class="teaching-level">Postgraduate</span>
+    </div>
+  </div>
 
-2020-2021 Academic Year:<br>
+  <div class="teaching-card">
+    <span class="teaching-role">Teaching Assistant</span>
+    <div class="teaching-course">COMP7015 Artificial Intelligence</div>
+    <div class="teaching-info">
+      <span class="teaching-school">Hong Kong Baptist University | Fall 2020</span>
+      <span class="teaching-level">Postgraduate</span>
+    </div>
+  </div>
+</div>
 
-Teaching Assistant, 2021 Spring, Hong Kong Baptist University, <b>COMP7780 Special Topics in Knowledge & Info Mgnt</b> (Postgraduate)<br>
+<div class="teaching-section">
+  <div class="teaching-year">2019-2020 Academic Year</div>
 
-Teaching Assistant, 2020 Fall, Hong Kong Baptist University, <b>COMP7015 Artificial Intelligence</b> (Postgraduate)<br>
+  <div class="teaching-card">
+    <span class="teaching-role">Teaching Assistant</span>
+    <div class="teaching-course">COMP7820 & COMP4125 Visual Analytics & Decision Support</div>
+    <div class="teaching-info">
+      <span class="teaching-school">Hong Kong Baptist University | Spring 2020</span>
+      <span class="teaching-level">Postgraduate & Undergraduate</span>
+    </div>
+  </div>
 
-<br>
-
-2019-2020 Academic Year:<br>
-
-Teaching Assistant, 2020 Spring, Hong Kong Baptist University, <b>COMP7820 & COMP4125 Visual Analytics & Decision Support</b> (Postgraduate&Undergraduate)<br>
-
-Teaching Assistant, 2019 Fall, Hong Kong Baptist University, <b>COMP7015 Artificial Intelligence</b> (Postgraduate)<br>
-
-</body>
-</html>
+  <div class="teaching-card">
+    <span class="teaching-role">Teaching Assistant</span>
+    <div class="teaching-course">COMP7015 Artificial Intelligence</div>
+    <div class="teaching-info">
+      <span class="teaching-school">Hong Kong Baptist University | Fall 2019</span>
+      <span class="teaching-level">Postgraduate</span>
+    </div>
+  </div>
+</div>

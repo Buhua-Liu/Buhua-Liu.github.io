@@ -39,7 +39,7 @@ redirect_from:
     <div class="timeline-header">
       <div class="timeline-title">Algorithm Engineer</div>
     </div>
-    <div class="timeline-org">Hithink RoyalFlush, Hangzhou</div>
+    <div class="timeline-org">Hithink RoyalFlush (同花顺), Hangzhou</div>
     <div class="timeline-detail">Financial AI Agent, Reinforcement Learning</div>
   </div>
 
@@ -47,7 +47,7 @@ redirect_from:
     <div class="timeline-header">
       <div class="timeline-title">Algorithm Engineer</div>
     </div>
-    <div class="timeline-org">Zhijie Exploration, Shenzhen</div>
+    <div class="timeline-org">AIxHealthcare (智界探索), Shenzhen</div>
   </div>
 </div>
 </div>
@@ -58,7 +58,7 @@ redirect_from:
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-header">
-      <div class="timeline-title">Research Intern</div>
+      <div class="timeline-title">Research Assistant</div>
     </div>
     <div class="timeline-org">Hong Kong University of Science and Technology (Guangzhou)</div>
     <div class="timeline-detail">
@@ -103,18 +103,5 @@ redirect_from:
     <div class="award-title">Excellent Graduate</div>
     <div class="award-org">Huazhong University of Science and Technology</div>
   </div>
-</div>
-</div>
-
-<div class="cv-section">
-<h2 class="cv-section-title"><i class="fas fa-cogs"></i> Skills</h2>
-
-<div>
-<span class="skill-tag">Python</span>
-<span class="skill-tag">PyTorch</span>
-<span class="skill-tag">Reinforcement Learning</span>
-<span class="skill-tag">LLM Agent</span>
-<span class="skill-tag">Deep Learning</span>
-<span class="skill-tag">NLP</span>
 </div>
 </div>

@@ -314,21 +314,27 @@ h1, h2, h3, h4, h5, h6 {
 /* Links and Buttons */
 .btn-academic {
   display: inline-block;
-  padding: 0.5em 1.2em;
+  padding: 0.6em 1.4em;
   background: linear-gradient(135deg, $academic-primary 0%, $academic-primary-dark 100%);
-  color: white;
+  color: white !important;
   border-radius: 6px;
   font-weight: 500;
-  text-decoration: none;
+  text-decoration: none !important;
   transition: all 0.3s ease;
   margin-right: 0.5em;
   margin-bottom: 0.5em;
-  font-size: 0.85em;
+  font-size: 0.9em;
+  border: none;
 
   &:hover {
     transform: translateY(-2px);
     box-shadow: 0 4px 15px rgba(37, 99, 235, 0.4);
-    color: white;
+    color: white !important;
+    text-decoration: none !important;
+  }
+
+  &:visited {
+    color: white !important;
   }
 
   i {

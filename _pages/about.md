@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Algorithm Engineer at [Hithink RoyalFlush](https://www.10jqka.com.cn/), focusing on **Financial AI Agent** and **Reinforcement Learning**.
+I am currently an Algorithm Engineer at [Hithink RoyalFlush](https://www.10jqka.com.cn/) ([AInvest](https://www.ainvest.com/)), focusing on **Financial AI Agent** and **Reinforcement Learning**.
 
 I received my MPhil degree from [Hong Kong Baptist University](https://www.hkbu.edu.hk/) (advised by [Prof. Yiu-ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/)) and B.Eng. degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
 
@@ -52,7 +52,7 @@ Selected Publications
 
 <div class="pub-card">
   <div class="pub-title">Alignment of Diffusion Models: Fundamentals, Challenges, and Future</div>
-  <div class="pub-authors"><span class="first-author">Buhua Liu</span>, Shitong Shao, Bao Li, et al.</div>
+  <div class="pub-authors"><span class="first-author">Buhua Liu</span>, Shitong Shao, Bao Li, Lichen Bai, Zhiqiang Xu, Haoyi Xiong, James Kwok, Sumi Helal, Zeke Xie</div>
   <div class="pub-venue">ACM Computing Surveys (CSUR), 2026</div>
   <span class="badge badge-venue">ACM CSUR</span>
   <span class="badge badge-impact">IF: 28.0</span>
@@ -60,7 +60,7 @@ Selected Publications
 
 <div class="pub-card">
   <div class="pub-title">Stronger Separability, Stronger Defense: Influence-based Backdoor Detection</div>
-  <div class="pub-authors"><span class="first-author">Buhua Liu</span>, Shuo Yang, Zhiqiang Xu, et al.</div>
+  <div class="pub-authors"><span class="first-author">Buhua Liu</span>, Shuo Yang, Zhiqiang Xu, Haoyi Xiong, Yiu-ming Cheung, Zeke Xie</div>
   <div class="pub-venue">PAKDD, 2025</div>
   <span class="badge badge-venue">PAKDD 2025</span>
   <span class="badge badge-oral">Oral</span>

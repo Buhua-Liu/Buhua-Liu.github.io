@@ -158,7 +158,6 @@ redirect_from:
   <div class="timeline-item">
     <div class="timeline-header">
       <div class="timeline-title">Master of Philosophy (MPhil) in Computer Science</div>
-      <span class="timeline-date">2019 - 2022</span>
     </div>
     <div class="timeline-org">Hong Kong Baptist University</div>
     <div class="timeline-detail">
@@ -170,7 +169,6 @@ redirect_from:
   <div class="timeline-item">
     <div class="timeline-header">
       <div class="timeline-title">Bachelor of Engineering (B.Eng.)</div>
-      <span class="timeline-date">2015 - 2019</span>
     </div>
     <div class="timeline-org">Huazhong University of Science and Technology</div>
     <div class="timeline-detail">

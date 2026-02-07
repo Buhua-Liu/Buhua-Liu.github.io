@@ -56,6 +56,9 @@ Selected Publications
   <div class="pub-venue">ACM Computing Surveys (CSUR), 2026</div>
   <span class="badge badge-venue">ACM CSUR</span>
   <span class="badge badge-impact">IF: 28.0</span>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2409.07253" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> arXiv</a>
+  </div>
 </div>
 
 <div class="pub-card">
@@ -63,6 +66,9 @@ Selected Publications
   <div class="pub-authors">Zichen Tang*, Zhenheng Tang*, Gaoning Pan, <span class="first-author">Buhua Liu</span>, Xin He, Kunfeng Lai, Xiaowen Chu, Bo Li</div>
   <div class="pub-venue">ICLR, 2026</div>
   <span class="badge badge-venue">ICLR 2026</span>
+  <div class="pub-links">
+    <a href="https://openreview.net/forum?id=6lIHfV6X4e" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> OpenReview</a>
+  </div>
 </div>
 
 <div class="pub-card">
@@ -71,6 +77,9 @@ Selected Publications
   <div class="pub-venue">PAKDD, 2025</div>
   <span class="badge badge-venue">PAKDD 2025</span>
   <span class="badge badge-oral">Oral</span>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2410.21136" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> arXiv</a>
+  </div>
 </div>
 
 <a href="/publications/" class="btn-academic">View All Publications →</a>

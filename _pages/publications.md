@@ -22,6 +22,10 @@ author_profile: true
   <div class="pub-venue">ACM Computing Surveys (CSUR), 2026</div>
   <span class="badge badge-venue">ACM CSUR</span>
   <span class="badge badge-impact">Impact Factor: 28.0</span>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2409.07253" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> arXiv</a>
+  </div>
+  <img src="/images/papers/diffusion-alignment.png" alt="Diffusion Model Alignment Framework" class="pub-image" onerror="this.style.display='none'">
 </div>
 
 <div class="pub-card">
@@ -31,6 +35,9 @@ author_profile: true
   </div>
   <div class="pub-venue">IEEE Transactions on Cognitive and Developmental Systems (TCDS), 2025</div>
   <span class="badge badge-venue">IEEE TCDS</span>
+  <div class="pub-links">
+    <a href="https://ieeexplore.ieee.org/document/10777354" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> IEEE</a>
+  </div>
 </div>
 
 <div class="pub-card">
@@ -40,6 +47,9 @@ author_profile: true
   </div>
   <div class="pub-venue">IEEE Transactions on Multimedia (TMM), 2022</div>
   <span class="badge badge-venue">IEEE TMM</span>
+  <div class="pub-links">
+    <a href="https://ieeexplore.ieee.org/document/9732643" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> IEEE</a>
+  </div>
 </div>
 
 ## Conference Papers
@@ -53,6 +63,10 @@ author_profile: true
   <div class="pub-venue">Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2025</div>
   <span class="badge badge-venue">PAKDD 2025</span>
   <span class="badge badge-oral">Oral Presentation</span>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2410.21136" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> arXiv</a>
+  </div>
+  <img src="/images/papers/backdoor-detection.png" alt="Backdoor Detection Framework" class="pub-image" onerror="this.style.display='none'">
 </div>
 
 <div class="pub-card">
@@ -62,6 +76,9 @@ author_profile: true
   </div>
   <div class="pub-venue">International Conference on Learning Representations (ICLR), 2026</div>
   <span class="badge badge-venue">ICLR 2026</span>
+  <div class="pub-links">
+    <a href="https://openreview.net/forum?id=6lIHfV6X4e" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> OpenReview</a>
+  </div>
 </div>
 
 <div class="pub-card">
@@ -71,6 +88,10 @@ author_profile: true
   </div>
   <div class="pub-venue">International Conference on Learning Representations (ICLR), 2024</div>
   <span class="badge badge-venue">ICLR 2024</span>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2405.15489" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> arXiv</a>
+    <a href="https://openreview.net/forum?id=qeLEwms5Vu" class="pub-link" target="_blank"><i class="fas fa-comments"></i> OpenReview</a>
+  </div>
 </div>
 
 ## Under Review
@@ -84,4 +105,7 @@ author_profile: true
   </div>
   <div class="pub-venue">Under review</div>
   <span class="badge badge-review">Under Review</span>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2410.04968" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> arXiv</a>
+  </div>
 </div>

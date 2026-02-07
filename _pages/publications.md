@@ -23,9 +23,8 @@ author_profile: true
   <span class="badge badge-venue">ACM CSUR</span>
   <span class="badge badge-impact">Impact Factor: 28.0</span>
   <div class="pub-links">
-    <a href="https://arxiv.org/abs/2409.07253" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> arXiv</a>
+    <a href="https://arxiv.org/abs/2409.07253" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> link</a>
   </div>
-  <img src="/images/papers/diffusion-alignment.png" alt="Diffusion Model Alignment Framework" class="pub-image" onerror="this.style.display='none'">
 </div>
 
 <div class="pub-card">
@@ -36,7 +35,7 @@ author_profile: true
   <div class="pub-venue">IEEE Transactions on Cognitive and Developmental Systems (TCDS), 2025</div>
   <span class="badge badge-venue">IEEE TCDS</span>
   <div class="pub-links">
-    <a href="https://ieeexplore.ieee.org/document/10777354" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> IEEE</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10962557" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> link</a>
   </div>
 </div>
 
@@ -48,7 +47,7 @@ author_profile: true
   <div class="pub-venue">IEEE Transactions on Multimedia (TMM), 2022</div>
   <span class="badge badge-venue">IEEE TMM</span>
   <div class="pub-links">
-    <a href="https://ieeexplore.ieee.org/document/9732643" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> IEEE</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9749880" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> link</a>
   </div>
 </div>
 
@@ -64,9 +63,8 @@ author_profile: true
   <span class="badge badge-venue">PAKDD 2025</span>
   <span class="badge badge-oral">Oral Presentation</span>
   <div class="pub-links">
-    <a href="https://arxiv.org/abs/2410.21136" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> arXiv</a>
+    <a href="https://link.springer.com/chapter/10.1007/978-981-96-8170-9_9" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> link</a>
   </div>
-  <img src="/images/papers/backdoor-detection.png" alt="Backdoor Detection Framework" class="pub-image" onerror="this.style.display='none'">
 </div>
 
 <div class="pub-card">
@@ -77,7 +75,7 @@ author_profile: true
   <div class="pub-venue">International Conference on Learning Representations (ICLR), 2026</div>
   <span class="badge badge-venue">ICLR 2026</span>
   <div class="pub-links">
-    <a href="https://openreview.net/forum?id=6lIHfV6X4e" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> OpenReview</a>
+    <a href="https://openreview.net/forum?id=FwnmQnVc7g" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> link</a>
   </div>
 </div>
 
@@ -90,7 +88,7 @@ author_profile: true
   <span class="badge badge-venue">ICLR 2024</span>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2405.15489" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> arXiv</a>
-    <a href="https://openreview.net/forum?id=qeLEwms5Vu" class="pub-link" target="_blank"><i class="fas fa-comments"></i> OpenReview</a>
+    <a href="https://openreview.net/forum?id=9NqC72m31m&noteId=9NqC72m31m" class="pub-link" target="_blank"><i class="fas fa-comments"></i> link</a>
   </div>
 </div>
 
@@ -106,6 +104,6 @@ author_profile: true
   <div class="pub-venue">Under review</div>
   <span class="badge badge-review">Under Review</span>
   <div class="pub-links">
-    <a href="https://arxiv.org/abs/2410.04968" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> arXiv</a>
+    <a href="https://arxiv.org/abs/2412.12594" class="pub-link" target="_blank"><i class="fas fa-file-pdf"></i> link</a>
   </div>
 </div>

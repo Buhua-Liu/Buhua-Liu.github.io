@@ -51,7 +51,7 @@ Selected Publications
 ======
 
 <div class="pub-card">
-  <div class="pub-title"><a href="https://arxiv.org/abs/2409.07253" target="_blank">Alignment of Diffusion Models: Fundamentals, Challenges, and Future</a></div>
+  <div class="pub-title"><a href="https://dl.acm.org/doi/10.1145/3796982" target="_blank">Alignment of Diffusion Models: Fundamentals, Challenges, and Future</a></div>
   <div class="pub-authors"><span class="first-author">Buhua Liu</span>, Shitong Shao, Bao Li, Lichen Bai, Zhiqiang Xu, Haoyi Xiong, James Kwok, Sumi Helal, Zeke Xie</div>
   <div class="pub-venue">ACM Computing Surveys (CSUR), 2026</div>
   <span class="badge badge-venue">ACM CSUR</span>

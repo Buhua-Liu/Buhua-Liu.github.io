@@ -54,7 +54,7 @@ author_profile: true
   <div class="pub-venue">Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2025</div>
   <span class="badge badge-venue">PAKDD 2025</span>
   <span class="badge badge-ccf-c">CCF C</span>
-  <span class="badge badge-oral">Oral Presentation</span>
+  <span class="badge badge-oral">Oral</span>
 </div>
 
 <div class="pub-card">

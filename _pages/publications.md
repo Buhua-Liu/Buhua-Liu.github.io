@@ -40,6 +40,7 @@ author_profile: true
   </div>
   <div class="pub-venue">IEEE Transactions on Multimedia (TMM), 2022</div>
   <span class="badge badge-venue">IEEE TMM</span>
+  <span class="badge badge-ccf-a">CCF A</span>
 </div>
 
 ## Conference Papers
@@ -52,6 +53,7 @@ author_profile: true
   </div>
   <div class="pub-venue">Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2025</div>
   <span class="badge badge-venue">PAKDD 2025</span>
+  <span class="badge badge-ccf-c">CCF C</span>
   <span class="badge badge-oral">Oral Presentation</span>
 </div>
 
@@ -62,6 +64,7 @@ author_profile: true
   </div>
   <div class="pub-venue">International Conference on Learning Representations (ICLR), 2026</div>
   <span class="badge badge-venue">ICLR 2026</span>
+  <span class="badge badge-ccf-a">CCF A</span>
 </div>
 
 <div class="pub-card">
@@ -71,6 +74,7 @@ author_profile: true
   </div>
   <div class="pub-venue">International Conference on Learning Representations (ICLR), 2024</div>
   <span class="badge badge-venue">ICLR 2024</span>
+  <span class="badge badge-ccf-a">CCF A</span>
 </div>
 
 ## Under Review

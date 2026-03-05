@@ -63,6 +63,7 @@ Selected Publications
   <div class="pub-authors">Zichen Tang*, Zhenheng Tang*, Gaoning Pan, <span class="first-author">Buhua Liu</span>, Xin He, Kunfeng Lai, Xiaowen Chu, Bo Li</div>
   <div class="pub-venue">International Conference on Learning Representations (ICLR), 2026</div>
   <span class="badge badge-venue">ICLR 2026</span>
+  <span class="badge badge-ccf-a">CCF A</span>
 </div>
 
 <div class="pub-card">
@@ -70,6 +71,7 @@ Selected Publications
   <div class="pub-authors"><span class="first-author">Buhua Liu</span>, Shuo Yang, Zhiqiang Xu, Haoyi Xiong, Yiu-ming Cheung, Zeke Xie</div>
   <div class="pub-venue">Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2025</div>
   <span class="badge badge-venue">PAKDD 2025</span>
+  <span class="badge badge-ccf-c">CCF C</span>
   <span class="badge badge-oral">Oral</span>
 </div>
 

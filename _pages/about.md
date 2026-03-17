@@ -35,19 +35,19 @@ News
 <div class="highlight-box">
   <div class="news-item">
     <div class="news-date">2026</div>
-    <div class="news-content">One paper accepted at <span class="highlight">ICME 2026 (CCF B)</span>.</div>
+    <div class="news-content">One paper on Zero-Shot Generative Classification accepted at <span class="highlight">ICME 2026 (CCF B)</span>.</div>
   </div>
   <div class="news-item">
     <div class="news-date">2026</div>
-    <div class="news-content">Our survey on <span class="highlight">Diffusion Model Alignment</span> accepted by <strong>ACM Computing Surveys</strong> (IF: 28.0)!</div>
+    <div class="news-content">Our survey on Diffusion Model Alignment accepted by <span class="highlight">ACM Computing Surveys(IF: 28.0)</span>!</div>
   </div>
   <div class="news-item">
     <div class="news-date">2026</div>
-    <div class="news-content">One paper accepted at <span class="highlight">ICLR 2026 (CCF A)</span>.</div>
+    <div class="news-content">One paper on LLM Jailbreak Attack accepted at <span class="highlight">ICLR 2026 (CCF A)</span>.</div>
   </div>
   <div class="news-item">
     <div class="news-date">2025</div>
-    <div class="news-content">One paper accepted at <span class="highlight">PAKDD 2025 (Oral)</span>.</div>
+    <div class="news-content">One paper on Backdoor Detection accepted at <span class="highlight">PAKDD 2025 (Oral)</span>.</div>
   </div>
 </div>
 

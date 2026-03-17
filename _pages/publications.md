@@ -68,7 +68,6 @@ author_profile: true
   <span class="badge badge-ccf-b">CCF B</span>
 </div>
 
-
 <div class="pub-card">
   <div class="pub-title"><a href="https://openreview.net/forum?id=FwnmQnVc7g" target="_blank">Ghost in the Cloud: Your Geo-Distributed Large Language Models Training is Easily Manipulated</a></div>
   <div class="pub-authors">

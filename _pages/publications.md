@@ -58,6 +58,18 @@ author_profile: true
 </div>
 
 <div class="pub-card">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2412.12594" target="_blank">A Simple and Efficient Baseline for Zero-Shot Generative Classification</a></div>
+  <div class="pub-authors">
+    Zipeng Qi*, <span class="first-author">Buhua Liu</span>*, Shiyan Zhang, Bao Li, Zhiqiang Xu, Haoyi Xiong, Zeke Xie
+    <span class="equal-contrib">(* equal contribution)</span>
+  </div>
+  <div class="pub-venue">IEEE International Conference on Multimedia and Expo (ICME), 2026</div>
+  <span class="badge badge-venue">ICME 2026</span>
+  <span class="badge badge-ccf-b">CCF B</span>
+</div>
+
+
+<div class="pub-card">
   <div class="pub-title"><a href="https://openreview.net/forum?id=FwnmQnVc7g" target="_blank">Ghost in the Cloud: Your Geo-Distributed Large Language Models Training is Easily Manipulated</a></div>
   <div class="pub-authors">
     Zichen Tang*, Zhenheng Tang*, Gaoning Pan, <span class="first-author">Buhua Liu</span>, Xin He, Kunfeng Lai, Xiaowen Chu, Bo Li
@@ -77,15 +89,5 @@ author_profile: true
   <span class="badge badge-ccf-a">CCF A</span>
 </div>
 
-## Under Review
-{: .pub-section-title}
-
-<div class="pub-card">
-  <div class="pub-title"><a href="https://arxiv.org/abs/2412.12594" target="_blank">A Simple and Efficient Baseline for Zero-Shot Generative Classification</a></div>
-  <div class="pub-authors">
-    Zipeng Qi*, <span class="first-author">Buhua Liu</span>*, Shiyan Zhang, Bao Li, Zhiqiang Xu, Haoyi Xiong, Zeke Xie
-    <span class="equal-contrib">(* equal contribution)</span>
-  </div>
-  <div class="pub-venue">Under review</div>
-  <span class="badge badge-review">Under Review</span>
-</div>
+<!-- ## Under Review
+{: .pub-section-title} -->

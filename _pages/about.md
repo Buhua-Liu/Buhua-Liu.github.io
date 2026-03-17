@@ -34,20 +34,20 @@ News
 
 <div class="highlight-box">
   <div class="news-item">
-    <div class="news-date">2026</div>
-    <div class="news-content">One paper on Zero-Shot Generative Classification accepted at <span class="highlight">ICME 2026 (CCF B)</span>.</div>
+    <div class="news-date">2026.3</div>
+    <div class="news-content">Our paper on Zero-Shot Generative Classification is accepted at <span class="highlight">ICME 2026 (CCF B)</span>.</div>
   </div>
   <div class="news-item">
-    <div class="news-date">2026</div>
-    <div class="news-content">Our survey on Diffusion Model Alignment accepted by <span class="highlight">ACM Computing Surveys(IF: 28.0)</span>!</div>
+    <div class="news-date">2026.2</div>
+    <div class="news-content">Our survey on Diffusion Model Alignment is accepted by <span class="highlight">ACM Computing Surveys(IF: 28.0)</span>!</div>
   </div>
   <div class="news-item">
-    <div class="news-date">2026</div>
-    <div class="news-content">One paper on LLM Jailbreak Attack accepted at <span class="highlight">ICLR 2026 (CCF A)</span>.</div>
+    <div class="news-date">2026.1</div>
+    <div class="news-content">Our paper on LLM Jailbreak Attack is accepted at <span class="highlight">ICLR 2026 (CCF A)</span>.</div>
   </div>
   <div class="news-item">
-    <div class="news-date">2025</div>
-    <div class="news-content">One paper on Backdoor Detection accepted at <span class="highlight">PAKDD 2025 (Oral)</span>.</div>
+    <div class="news-date">2025.2</div>
+    <div class="news-content">Our paper on Backdoor Detection is accepted at <span class="highlight">PAKDD 2025 (Oral)</span>.</div>
   </div>
 </div>
 

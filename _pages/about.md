@@ -39,7 +39,7 @@ News
   </div>
   <div class="news-item">
     <div class="news-date">2026.2</div>
-    <div class="news-content">Our survey on Diffusion Model Alignment is accepted by <span class="highlight">ACM Computing Surveys(IF: 28.0)</span>!</div>
+    <div class="news-content">Our survey on Diffusion Model Alignment is accepted by <span class="highlight">ACM Computing Surveys (IF: 28.0)</span>!</div>
   </div>
   <div class="news-item">
     <div class="news-date">2026.1</div>
@@ -68,6 +68,14 @@ Selected Publications
   <div class="pub-venue">International Conference on Learning Representations (ICLR), 2026</div>
   <span class="badge badge-venue">ICLR 2026</span>
   <span class="badge badge-ccf-a">CCF A</span>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2412.12594" target="_blank">A Simple and Efficient Baseline for Zero-Shot Generative Classification</a></div>
+  <div class="pub-authors">Zipeng Qi*, <span class="first-author">Buhua Liu</span>*, Shiyan Zhang, Bao Li, Zhiqiang Xu, Haoyi Xiong, Zeke Xie</div>
+  <div class="pub-venue">IEEE International Conference on Multimedia and Expo (ICME), 2026</div>
+  <span class="badge badge-venue">ICME 2026</span>
+  <span class="badge badge-ccf-b">CCF B</span>
 </div>
 
 <div class="pub-card">

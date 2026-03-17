@@ -61,7 +61,7 @@ author_profile: true
   <div class="pub-title"><a href="https://arxiv.org/abs/2412.12594" target="_blank">A Simple and Efficient Baseline for Zero-Shot Generative Classification</a></div>
   <div class="pub-authors">
     Zipeng Qi*, <span class="first-author">Buhua Liu</span>*, Shiyan Zhang, Bao Li, Zhiqiang Xu, Haoyi Xiong, Zeke Xie
-    <span class="equal-contrib">(* equal contribution)</span>
+    <span class="equal-contrib"></span>
   </div>
   <div class="pub-venue">IEEE International Conference on Multimedia and Expo (ICME), 2026</div>
   <span class="badge badge-venue">ICME 2026</span>
